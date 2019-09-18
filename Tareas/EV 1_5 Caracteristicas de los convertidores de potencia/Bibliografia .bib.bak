@@ -1,0 +1,11 @@
+% Encoding: UTF-8
+
+@Book{Ballano1998,
+  title     = {Sistemas Electrónicos de Potencia},
+  publisher = {Editorial Paraninfo,},
+  year      = {1998},
+  author    = {J. Velasco Ballano},
+  editor    = {J. Velasco Ballano y otros},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
